@@ -1,0 +1,10 @@
+.skills-section {
+    padding: 50px 20px;
+    background-color: #fff;
+  }
+  
+  .skills-grid {
+    display: flex;
+    justify-content: space-around;
+  }
+  
